@@ -11,6 +11,10 @@
 - **Liga:** CLJ U‑17, grupa 2  
 - **Pozycja:** Ofensywny pomocnik (10)  
 - **Profil:** Techniczny, kreatywny, grający między liniami  
+## Reprezentacja Polski U‑16
+- **Status:** zawodnik powoływany do reprezentacji Polski U‑16  
+- **Znaczenie:** potwierdzenie wysokiego potencjału na tle rocznika 2010  
+- **Wartość skautingowa:** zawodnik monitorowany przez PZPN, doświadczenie międzynarodowe  
 
 ---
 
