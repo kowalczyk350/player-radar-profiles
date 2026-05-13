@@ -1,6 +1,6 @@
 # MIROSŁAW KOWALCZYK
 
-**Analityk piłkarski / Skaut młodzieżowy (hybryda)**  
+**Analityk piłkarski / Skaut **  
 Jagiellonia Białystok — dział skautingu
 
 ## O mnie
