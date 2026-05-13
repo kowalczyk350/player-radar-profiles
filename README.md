@@ -2,7 +2,7 @@
 Professional football scouting visualizations and radar profiles
 # MIROSŁAW KOWALCZYK
 
-**Analityk piłkarski / Skaut młodzieżowy (hybryda)**  
+**Analityk piłkarski / Skaut **  
 Jagiellonia Białystok — dział skautingu
 
 ---
