@@ -11,9 +11,11 @@ Scouting | Player Identification | Football Data Analysis
 
 PROFILE
 
-Football Scout & Data Analyst specializing in player identification and performance profiling. I combine live match observation with data-driven analysis to support recruitment decisions at youth and semi-professional level.
+Football Scout & Data Analyst specializing in player identification and performance profiling. 
+I combine live match observation with data-driven analysis to support recruitment decisions at youth and semi-professional level.
 
-My work focuses on translating football data (event data, scouting reports, and visual analysis) into actionable player profiles and recruitment insights.
+My work focuses on translating football data (event data, scouting reports,
+and visual analysis) into actionable player profiles and recruitment insights.
 
 EXPERIENCE
 Scouting & Analysis Support – Jagiellonia Białystok (Scouting Environment)
